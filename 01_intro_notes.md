@@ -191,3 +191,4 @@ Without the .js extention node will look for a js file if it does not find it, t
 When we require a json file we can immediately access the data through the variable we set to the required file.
 
 ## Module Patterns in Node
+Edit
